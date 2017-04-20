@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\dai\documents\visual studio 2015\projects\raytracers\raytracers\vec3.h(54): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\dai\documents\visual studio 2015\projects\raytracers\raytracers\vec3.h(133): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\dai\documents\visual studio 2015\projects\raytracers\raytracers\source.cpp(8): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\dai\documents\visual studio 2015\projects\raytracers\raytracers\source.cpp(18): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\dai\documents\visual studio 2015\projects\raytracers\raytracers\source.cpp(19): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\dai\documents\visual studio 2015\projects\raytracers\raytracers\source.cpp(19): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  RayTracers.vcxproj -> C:\Users\Dai\documents\visual studio 2015\Projects\RayTracers\Debug\RayTracers.exe
+  RayTracers.vcxproj -> C:\Users\Dai\documents\visual studio 2015\Projects\RayTracers\Debug\RayTracers.pdb (Full PDB)
